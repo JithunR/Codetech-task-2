@@ -14,7 +14,7 @@
 
 ## 📋 Overview of the Project
 
-### Project: Use SEMrush to conduct SEO audits, track keyword rankings, and analyze competitors. Develop strategies to improve search engine visibility. Conduct site audits and identify SEO issues. Track keyword performance and rankings. can you help me this task write a internship report
+### Project: Use SEMrush to conduct SEO audits, track keyword rankings, and analyze competitors. Develop strategies to improve search engine visibility. Conduct site audits and identify SEO issues. Track keyword performance and rankings. 
 
 ### Objective
 The primary objective of this project was to improve the search engine visibility and performance of the company's website by leveraging SEMrush for comprehensive SEO activities. 
