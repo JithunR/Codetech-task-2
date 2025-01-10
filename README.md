@@ -18,8 +18,7 @@
 
 ![image alt](https://github.com/JithunR/Codtech-task-2/blob/1e0cf38f9319a96ea105361f70622f006aa85d77/Screenshot%20(21).png)
 ![image alt](https://github.com/JithunR/Codtech-task-2/blob/f0d583120cb76db34193e0dfba14f0e8a8e7af43/Screenshot%20(26).png)
-![image alt](
-![image alt](
+![image alt](https://github.com/JithunR/Codtech-task-2/blob/5da2a239cac38a79f72b89b27a3c11a2da147a7d/Screenshot%20(29).png)
 
 ### Objective
 The primary objective of this project was to improve the search engine visibility and performance of the company's website by leveraging SEMrush for comprehensive SEO activities. 
