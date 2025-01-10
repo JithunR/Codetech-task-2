@@ -16,6 +16,7 @@
 
 ### Project: Comprehensive SEO Audit and Keyword Strategy Development Using SEMrush
 
+
 ### Objective
 The primary objective of this project was to improve the search engine visibility and performance of the company's website by leveraging SEMrush for comprehensive SEO activities. 
 
